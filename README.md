@@ -1,6 +1,6 @@
 To run app:
 ```
-$ git clone github.link
+$ git clone [github.link](https://github.com/tomejesus/react-graphql-ts.git)
 $ cd ./react-graphql-ts
 $ yarn start
 ```
